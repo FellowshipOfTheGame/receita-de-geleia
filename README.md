@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Seja bem-vindo ao Receita de Geleia
 
 You can use the [editor on GitHub](https://github.com/FellowshipOfTheGame/receita-de-geleia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
