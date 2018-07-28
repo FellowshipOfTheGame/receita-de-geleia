@@ -16,7 +16,7 @@ O nome vem do termo em inglês "*jam session*", que são encontros de músicos p
 
 Por mais que o conceito básico seja esse, as diferenças entre game jams vão muito além das diversas durações possíveis já citadas. Elas podem ser presenciais (ou seja, indicar que você precisa estar em um local específico para participar) ou totalmente digitais, serem gratuitas ou pagas, com muitas ou poucas restrições... Toda essa pluralidade é um dos motivos da cultura de game jams ser tão fascinante e importante.
 
-#### Preciso ser desenvolvedor de jogos para participar?
+### Preciso ser desenvolvedor de jogos para participar?
 
 **NÃO! Nada disso! Com certeza, não. Só para termos certeza: não.**
 
@@ -24,7 +24,7 @@ Uma **game jam é para todo mundo**! Por mais que pareça que você precise sabe
 
 Suas habilidades sempre vão acabar sendo úteis em uma jam, de formas que você nem pode imaginar. Ou, ainda, você pode acabar aprendendo novas coisas enquanto desenvolve o seu jogo. Além disso, por mais que seja o padrão programar um protótipo no software mais conhecido pra isso, quase todas as game jams não colocam limites no que você pode criar. Histórias de ficção interativa, jogos de tabuleiro e de cartas, brincadeiras de roda... O que sua mente pensar deve ser tão ampla quanto o próprio conceito do que é um jogo. O importante é ser divertido no final!
 
-#### Como encontro uma game jam?
+### Como encontro uma game jam?
 
 Muitas game jams acontecem no mundo inteiro e, nos últimos anos, várias também estão acontecendo no Brasil. **Nós, do FoG, organizamos várias jams presenciais durante o ano** (e [você pode ficar por dentro delas na nossa página do Facebook](http://facebook.com/fogicmc)). Mas caso você esteja longe de São Carlos, aqui vai algumas outras opções!
 
