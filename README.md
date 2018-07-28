@@ -50,9 +50,14 @@ Como dissemos, não existe uma receita para uma game jam maravilhosa, mas temos 
 10. **TESTES**: não tenha vergonha e convide os outros participantes da jam para testar o seu jogo e te dar feedbacks sobre o que sua equipe está fazendo. Só não esqueça de jogar o projeto deles também!
 11. **SUBMISSÃO**: reserve alguns minutos ao fim da jam para fazer a submissão do seu jogo para os sistemas utilizados pelo evento. Se você bobear, pode acabar com seu jogo fora da seleção oficial do evento.
 
-# Recursos, programas e sites
+# Recursos, programas e sites importantes
 
 ## Programação e Game Engines
+
+| Recurso | Descrição | Link |
+| --- | --- | --- |
+| Unity | Uma das mais utilizadas game engines do mundo, tem suporte à jogos 2D e 3D e exporta para diversas plataformas (computadores, celulares e Web). | https://unity3d.com/pt |
+
 ## Arte 2D e 3D
 ## Composição Musical
 ## Roteiros e Game Design
