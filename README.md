@@ -100,5 +100,5 @@ Como dissemos, não existe uma receita para uma game jam maravilhosa, mas temos 
 Textos por Gabriel Toschi (twitter: [@gabtoschi](https://twitter.com/gabtoschi)).
 Agradecimentos à Gabriel "Ginja" e Rodrigo Geurgas.
 
-<p align="center"><img src="logo_fog.png"><br><img src="social-facebook.png"></p>
+<p align="center"><img src="logo_fog.png"><br><img src="social-fb.png"></p>
 
