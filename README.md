@@ -1,39 +1,26 @@
-## Seja bem-vindo ao Receita de Geleia
+## É sua primeira vez em uma game jam?
 
-Testando a velocidade de atualizar desse negócio
+Parece que não vai dar, que vai ser muito difícil e tudo mais... Mas você não poderia estar **mais enganado!** Participar de uma game jam é uma experiência incrível! São algumas horas em que você vai colocar a mão na massa para criar algo novo, conhecendo outras pessoas e, claro, se divertindo muito no processo.
 
-You can use the [editor on GitHub](https://github.com/FellowshipOfTheGame/receita-de-geleia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Mas se você estiver com dúvidas de **por onde começar** ou **o que fazer** durante uma game jam, você está no lugar certo. Diferente da ~~horrível~~ piada do título deste material, não há uma receita pronta de como participar bem de uma jam, mas **aqui você vai encontrar uma série de dicas e links que podem te ajudar!**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Caso queira algo específico, você pode olhar no menu aqui do lado esquerdo da página e ir direto ao que precisa.
 
-### Markdown
+Esse material foi feito pelo Geleia, grupo focado em participar de game jams, composto por membros do [Fellowship of the Game (FoG)](http://fog.icmc.usp.br), grupo de extensão oficial do Instituto de Ciências Matemáticas e Computação da USP São Carlos. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### O que é uma game jam?
 
-```markdown
-Syntax highlighted code block
+### Como participar de uma game jam?
 
-# Header 1
-## Header 2
-### Header 3
+### Manual de Sobrevivência para Game Jams
 
-- Bulleted
-- List
+### Recursos, programas e sites
 
-1. Numbered
-2. List
+#### Programação e Game Engines
+#### Arte 2D
+#### Arte e Modelagem 3D
+#### Composição Musical
+#### Roteiros
+#### Game Design
+#### Jogos Analógicos
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FellowshipOfTheGame/receita-de-geleia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
