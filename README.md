@@ -36,6 +36,20 @@ Muitas game jams acontecem no mundo inteiro e, nos últimos anos, várias també
 
 # Manual de Sobrevivência para Game Jams
 
+Como dissemos, não existe uma receita para uma game jam maravilhosa, mas temos **várias dicas que podem te ajudar (e muito!)**. Tentamos ser abrangentes e cobrir várias dificuldades que podem acontecer, mas que talvez não sejam um problema para você; então, nunca se esqueça de ouvir e pedir orientações para os organizadores da jam que você for participar.
+
+1. **PAPEL E CANETA**: muitas game jams também possibilitam que você mande, ao invés de um jogo digital — para computadores, celulares ou videogames —, um jogo analógico (de tabuleiro, cartas, etc.). Algumas são totalmente focadas nesse tipo de jogo, inclusive! É uma experiência MUITO legal e interessante, digna de ser realizada.
+2. **EQUIPAMENTOS**: a maioria das jams presenciais pede que você leve os seus próprios equipamentos para participar (computadores/notebooks, mesas digitalizadoras, microfones...). Por isso, antes de ir para o local do evento, veja se está tudo funcionando e se não está faltando nada.
+3. **DESCANSAR É BOM**: pode parecer uma ótima ideia ficar 48 horas sem dormir... mas descansar é muito importante. Converse com sua equipe, saiba dos seus limites e descanse o necessário para aproveitar a jam ao máximo. Várias jams presenciais permitem que você leve colchões ou sacos de dormir, não deixe de perguntar sobre isso antes de ir.
+4. **CAFÉ**: bom, mas se precisar ficar acordado, um cafézinho sempre pode te ajudar a acordar. Só não exagere muito e siga a dica anterior quando possível.
+5. **HIDRATAÇÃO**: ficar fazendo seu jogo sem parar é legal, mas beber água é importante. Leve uma garrafinha, pelo menos, e pergunte logo quando chegar onde você pode reabastecê-la. 
+6. **BANHEIROS**: quando a situação realmente apertar, você vai precisar de um, então, logo que chegar no local da jam, já pergunte onde eles ficam. Alguns deles também tem chuveiros para que você possa tomar um banho durante o evento — mas, caso não tenham, você sempre pode procurar um colega de evento que possa te ceder uns minutinhos de limpeza no lugar onde mora.
+7. **SNACKS**: é claro que é importante almoçar e jantar bem, mas não deixe de levar alguma coisa para comer durante a tarde, caso a game jam não disponibilize. De barriga vazia ninguém faz jogo!
+8. **EQUIPE**: participar sozinho de uma jam é perder boa parte da graça. Três a cinco pessoas formam uma boa equipe de jam; mais gente pode trazer alguns problemas de organização se não tomar cuidado.
+9. **PENSE SIMPLES**: quando o tempo é curto, tente manter o seu escopo simples. Foque no que realmente torna o seu jogo único e o que você precisa ter pronto ao final da jam para mostrar que a sua ideia funciona.
+10. **TESTES**: não tenha vergonha e convide os outros participantes da jam para testar o seu jogo e te dar feedbacks sobre o que sua equipe está fazendo. Só não esqueça de jogar o projeto deles também!
+11. **SUBMISSÃO**: reserve alguns minutos ao fim da jam para fazer a submissão do seu jogo para os sistemas utilizados pelo evento. Se você bobear, pode acabar com seu jogo fora da seleção oficial do evento.
+
 # Recursos, programas e sites
 
 ## Programação e Game Engines
