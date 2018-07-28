@@ -73,6 +73,13 @@ Como dissemos, não existe uma receita para uma game jam maravilhosa, mas temos 
 | LÖVE | Framework leve e open-source para criar jogos na linguagem Lua. | [https://love2d.org/](https://love2d.org/) |
 
 ## Arte 2D e 3D
+
+| Recurso | Descrição | Link |
+| --- | --- | --- |
+| Krita | Alternativa grátis e open-source ao Photoshop, é muito indicada para trabalhos com arte digital. | [https://krita.org/en/](https://krita.org/en/) |
+| Aseprite | Software focado em pixel art, com uma série de ferramentas úteis para esse tipo de desenho. | [https://www.aseprite.org/](https://www.aseprite.org/) |
+| Blender | O mais utilizado software de modelagem 3D grátis do mercado. | [https://www.blender.org/](https://www.blender.org/)
+
 ## Composição Musical
 ## Roteiros e Game Design
 
