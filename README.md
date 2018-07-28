@@ -54,34 +54,44 @@ Como dissemos, não existe uma receita para uma game jam maravilhosa, mas temos 
 
 ## Programação e Game Engines
 
-#### Editores de texto e IDEs
-
-| Recurso | Descrição | Link |
-| --- | --- | --- |
-| Sublime Text | Editor de texto leve, prático e totalmente personalizável. | [https://www.sublimetext.com/](https://www.sublimetext.com/) |
-| Atom | Editor de texto potente, com uma série de funcionalidades interessantes. | [https://atom.io/](https://atom.io/) | 
-| Visual Studio Code | Versão mais leve e compacta do Visual Studio original, mas bem poderosa, gratuita e integrada de forma nativa com a Unity. | [https://code.visualstudio.com/](https://code.visualstudio.com/) |
-
 #### Game Engines
 
 | Recurso | Descrição | Link |
 | --- | --- | --- |
-| Unity | Uma das mais utilizadas game engines do mundo, tem suporte à jogos 2D e 3D e exporta para diversas plataformas (computadores, celulares e Web). | [https://unity3d.com/pt](https://unity3d.com/pt) |
-| Unreal Engine | Poderosa engine para jogos 3D, tem sistema de programação visual (blueprints) e exporta para diversas plataformas. | [https://www.unrealengine.com/](https://www.unrealengine.com/) |
-| Godot Engine | Engine gratuita e open source, dá suporte a jogos 2D e 3D e tem fácil curva de aprendizado. | [https://godotengine.org/](https://godotengine.org/) |
-| Twine | Plataforma para criar histórias de ficção interativa de forma simples e rápida. | [http://twinery.org/](http://twinery.org/)
-| LÖVE | Framework leve e open-source para criar jogos na linguagem Lua. | [https://love2d.org/](https://love2d.org/) |
+| Unity | Uma das mais utilizadas game engines do mundo, tem suporte à jogos 2D e 3D e exporta para diversas plataformas (computadores, celulares e Web). | [unity3d.com](https://unity3d.com/pt) |
+| Unreal Engine | Poderosa engine para jogos 3D, tem sistema de programação visual (blueprints) e exporta para diversas plataformas. | [unrealengine.com](https://www.unrealengine.com/) |
+| Godot Engine | Engine gratuita e open source, dá suporte a jogos 2D e 3D e tem fácil curva de aprendizado. | [godotengine.org](https://godotengine.org/) |
+| Twine | Plataforma para criar histórias de ficção interativa de forma simples e rápida. | [twinery.org](http://twinery.org/)
+| LÖVE | Framework leve e open-source para criar jogos na linguagem Lua. | [love2d.org](https://love2d.org/) |
+
+#### Editores de texto e IDEs
+
+| Recurso | Descrição | Link |
+| --- | --- | --- |
+| Sublime Text | Editor de texto leve, prático e totalmente personalizável. | [sublimetext.com](https://www.sublimetext.com/) |
+| Atom | Editor de texto potente, com uma série de funcionalidades interessantes. | [atom.io](https://atom.io/) |
+| Visual Studio Code | Versão mais leve e compacta do Visual Studio original, mas bem poderosa, gratuita e integrada de forma nativa com a Unity. | [code.visualstudio.com](https://code.visualstudio.com/) |
 
 ## Arte 2D e 3D
 
 | Recurso | Descrição | Link |
 | --- | --- | --- |
-| Krita | Alternativa grátis e open-source ao Photoshop, é muito indicada para trabalhos com arte digital. | [https://krita.org/en/](https://krita.org/en/) |
-| Aseprite | Software focado em pixel art, com uma série de ferramentas úteis para esse tipo de desenho. | [https://www.aseprite.org/](https://www.aseprite.org/) |
-| Blender | O mais utilizado software de modelagem 3D grátis do mercado. | [https://www.blender.org/](https://www.blender.org/)
+| Krita | Alternativa grátis e open-source ao Photoshop, é muito indicada para trabalhos com arte digital. | [krita.org](https://krita.org/en/) |
+| Aseprite | Software focado em pixel art, com uma série de ferramentas úteis para esse tipo de desenho. | [aseprite.org](https://www.aseprite.org/) |
+| Blender | O mais utilizado software de modelagem 3D grátis do mercado. | [blender.org](https://www.blender.org/) |
 
 ## Composição Musical
+
+| Recurso | Descrição | Link |
+| --- | --- | --- |
+| LMMS | Workstation grátis e open-source para a produção de música digital. | [lmms.io](https://lmms.io/) |
+
 ## Roteiros e Game Design
+
+| Recurso | Descrição | Link |
+| --- | --- | --- |
+| Draw.io | Plataforma online gratuita para a criação de fluxogramas e outros diagramas. | [draw.io](https://www.draw.io/)
+| Piecepack | Sistema versátil de peças para jogos analógicos, que podem ser usados no começo do desenvolvimento. | [piecepack.org](http://www.piecepack.org/) |
 
 # Créditos e agradecimentos
 
