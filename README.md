@@ -100,5 +100,5 @@ Como dissemos, não existe uma receita para uma game jam maravilhosa, mas temos 
 Textos por Gabriel Toschi (twitter: [@gabtoschi](https://twitter.com/gabtoschi)).
 Agradecimentos à Gabriel "Ginja" e Rodrigo Geurgas.
 
-<p align="center"><img src="logo_fog.png"><br><a href="https://www.facebook.com/fogicmc/"><img src="social-fb.png"></a>  <a href="https://github.com/FellowshipOfTheGame/"><img src="social-git.png">  <a href="https://fog-icmc.itch.io/"><img src="social-itch.png"></a></p>
+<p align="center"><img src="logo_fog.png"><br><a target="_blank" href="https://www.fog.icmc.usp.br/"><img src="social-site.png">  <a target="_blank" href="https://www.facebook.com/fogicmc/"><img src="social-fb.png"></a>  <a target="_blank" href="https://github.com/FellowshipOfTheGame/"><img src="social-git.png">  <a target="_blank" href="https://fog-icmc.itch.io/"><img src="social-itch.png"></a></p>
 
