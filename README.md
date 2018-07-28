@@ -62,3 +62,10 @@ Como dissemos, não existe uma receita para uma game jam maravilhosa, mas temos 
 
 # Créditos e agradecimentos
 
+"Receita de Geleia" é um material desenvolvido pelo [**Fellowship of the Game (FoG)**](http://fog.icmc.usp.br).
+
+Textos por Gabriel Toschi (twitter: [@gabtoschi](https://twitter.com/gabtoschi)). Agradecimentos à Gabriel "Ginja" e Rodrigo Geurgas.
+
+<p align="center">
+  <img src="logo_fog.png">
+</p>
