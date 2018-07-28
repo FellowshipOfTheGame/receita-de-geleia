@@ -53,12 +53,9 @@ Como dissemos, não existe uma receita para uma game jam maravilhosa, mas temos 
 # Recursos, programas e sites
 
 ## Programação e Game Engines
-## Arte 2D
-## Arte e Modelagem 3D
+## Arte 2D e 3D
 ## Composição Musical
-## Roteiros
-## Game Design
-## Jogos Analógicos
+## Roteiros e Game Design
 
 # Créditos e agradecimentos
 
