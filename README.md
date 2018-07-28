@@ -54,11 +54,23 @@ Como dissemos, não existe uma receita para uma game jam maravilhosa, mas temos 
 
 ## Programação e Game Engines
 
+#### Editores de texto e IDEs
+
+| Recurso | Descrição | Link |
+| --- | --- | --- |
+| Sublime Text | Editor de texto leve, prático e totalmente personalizável. | [https://www.sublimetext.com/](https://www.sublimetext.com/) |
+| Atom | Editor de texto potente, com uma série de funcionalidades interessantes. | [https://atom.io/](https://atom.io/) | 
+| Visual Studio Code | Versão mais leve e compacta do Visual Studio original, mas bem poderosa, gratuita e integrada de forma nativa com a Unity. | [https://code.visualstudio.com/](https://code.visualstudio.com/) |
+
 #### Game Engines
 
 | Recurso | Descrição | Link |
 | --- | --- | --- |
 | Unity | Uma das mais utilizadas game engines do mundo, tem suporte à jogos 2D e 3D e exporta para diversas plataformas (computadores, celulares e Web). | [https://unity3d.com/pt](https://unity3d.com/pt) |
+| Unreal Engine | Poderosa engine para jogos 3D, tem sistema de programação visual (blueprints) e exporta para diversas plataformas. | [https://www.unrealengine.com/](https://www.unrealengine.com/) |
+| Godot Engine | Engine gratuita e open source, dá suporte a jogos 2D e 3D e tem fácil curva de aprendizado. | [https://godotengine.org/](https://godotengine.org/) |
+| Twine | Plataforma para criar histórias de ficção interativa de forma simples e rápida. | [http://twinery.org/](http://twinery.org/)
+| LÖVE | Framework leve e open-source para criar jogos na linguagem Lua. | [https://love2d.org/](https://love2d.org/) |
 
 ## Arte 2D e 3D
 ## Composição Musical
